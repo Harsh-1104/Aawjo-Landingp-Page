@@ -4,18 +4,16 @@
     "paragraph": "Streamline your visitor experience with aawjo, the smart way to manage and track visitors."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Streamlined Visitor Experience",
+      "Enhanced Security",
+      "Easy Integration"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Customizable Solutions",
+      "Data Privacy and Compliance",
+      "Excellent Customer Support"
     ]
   },
   "Gallery": [
@@ -161,24 +159,24 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-qrcode",
+      "title": "Instant Check-In",
+      "text": "Allow visitors to check in quickly and securely using unique QR codes, reducing wait times and paperwork."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-clock-o",
+      "title": "Real-Time Visitor Tracking",
+      "text": "Monitor visitor movement within your premises in real-time, ensuring a smooth and secure experience."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-bell-o",
+      "title": "Instant alert",
+      "text": "Stay informed with instant email alerts whenever a visitor checks in, enhancing security and communication."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-shield",
+      "title": "Enhanced Security",
+      "text": "Verify visitor identities effortlessly and keep your premises secure with aawjo’s robust security features."
     }
   ]
 }
